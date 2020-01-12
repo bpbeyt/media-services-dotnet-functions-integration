@@ -53,21 +53,21 @@
     },
     "mediaServicesAccountRestApiEndpoint": {
       "type": "string",
-      "defaultValue": "Example: https://accountname.restv2.region.media.azure.net/api/",
+      "defaultValue": "https://hypemedia.restv2.centralus.media.azure.net/api/",
       "metadata": {
         "description": "https://hypemedia.restv2.centralus.media.azure.net/api/"
       }
     },
     "mediaServicesAccountServicePrincipalClientId": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "0e518a1f-41d5-4186-be30-9d61ad4df56f",
       "metadata": {
         "description": "Service Principal Client ID to access your media services account. See https://docs.microsoft.com/en-us/azure/media-services/media-services-portal-get-started-with-aad#service-principal-authentication"
       }
     },
     "mediaServicesAccountServicePrincipalClientSecret": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "ULtQ?3A9MbGRAau3/-bts@1f_H]sHyKX",
       "metadata": {
         "description": "Service Principal Client Secret to access your media services account. See https://docs.microsoft.com/en-us/azure/media-services/media-services-portal-get-started-with-aad#service-principal-authentication"
       }
