@@ -74,14 +74,14 @@
     },
     "mediaServicesStorageAccountName": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "hypevideostorage",
       "metadata": {
         "description": "Storage Accouunt Name of the Media Services account"
       }
     },
     "mediaServicesStorageAccountKey": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "lafeGjtXdq2bBuwPUgJyU/WTPCQAH/IWmMLLmc1KpgN6tMKhy9JGaLNxLjcIVN+1+6k6yvAjyefj/L/zzvqF9Q==",
       "metadata": {
         "description": "Storage Accouunt Key of the Media Services account"
       }
